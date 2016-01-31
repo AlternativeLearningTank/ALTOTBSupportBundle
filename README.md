@@ -1,4 +1,4 @@
-# Refugee Hotspot
+# ALT OTB Support Bundle
 
 A mobile device to remove the obstacles that refugees face when it comes to access the internet is being developed by Alternative Learning Tank (ALT) in dialogue with refugee collectives in the Netherlands, Belgium and Germany. This device will provide connectivity in each of the collectives physical locations and thanks to its batteries will keep providing connectivity in the situation on which a collective is being evicted from their location. 
 
