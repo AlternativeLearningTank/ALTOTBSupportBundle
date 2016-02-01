@@ -47,7 +47,7 @@ Five setup possibilities to be tested at the hackathon (more info below):
 
 Will be organized on February 5 and 6 in Amsterdam - sign up here -> http://hackshackers.nl/
 
-We'll be working on the issues mentioned here: https://github.com/nllz/refugeehotspot/issues
+We'll be working on the issues mentioned here: https://github.com/AlternativeLearningTank/ALTOTBSupportBundle/
 as well as other issues you might come up with. Feel free to add them or bring them up at the hackathon.
 
 List hardware that will be available for hacking at hackathon:
@@ -76,7 +76,7 @@ Feel free to bring your own hardware! All Raspberry Pi's are welcome :)
 
 # Questions? Comments? More information?:
 
-Feel free to email project [at] digitaldissidents [dot] org or leave an issue in the tracker.
+Feel free to email info [at] alternativelearningtank [dot] net or leave an issue in the tracker.
 
 
 
